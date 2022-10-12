@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,"reserved": false,
+    "type": "parkett",
+    "price": 10
+  },
+  {
+    "id": 2,"reserved": false,
+    "type": "parkett",
+    "price": 10
+  },
+  {
+    "id": 3,"reserved": false,
+    "type": "parkett",
+    "price": 10
+  },
+  {
+    "id": 4,"reserved": false,
+    "type": "parkett",
+    "price": 10
+  },
+  {
+    "id": 5,"reserved": false,
+    "type": "parkett",
+    "price": 10
+  },
+  {
+    "id": 6,"reserved": false,
+    "type": "parkett",
+    "price": 10
+  },
+  {
+    "id": 7,"reserved": false,
+    "type": "loge",
+    "price": 15
+  },
+  {
+    "id": 8,"reserved": false,
+    "type": "loge",
+    "price": 15
+  },
+  {
+    "id": 9,"reserved": false,
+    "type": "loge",
+    "price": 15
+  },
+  {
+    "id": 10,"reserved": false,
+    "type": "loge",
+    "price": 15
+  },
+  {
+    "id": 11,"reserved": false,
+    "type": "loge",
+    "price": 15
+  },
+  {
+    "id": 12,"reserved": false,
+    "type": "loge",
+    "price": 15
+  }
+]
